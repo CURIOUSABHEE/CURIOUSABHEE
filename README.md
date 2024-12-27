@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @CURIOUSABHEE
-- 👀 I’m interested in lot of things from marketing to AI/ML.
-- 🌱 I’m currently learning javascript
+- 👀 I’m interested in many concepts from marketing to AI/ML.
+- 🌱 I’m currently learning REACT.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me connect with me on linkedin. [Abhishek jamdade]
+- 📫 How to reach me connect with me on LinkedIn. [Abhishek jamdade]
 
 <!---
 CURIOUSABHEE/CURIOUSABHEE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
