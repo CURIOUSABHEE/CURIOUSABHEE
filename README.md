@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CURIOUSABHEE
 - 👀 I’m interested in many concepts from marketing to AI/ML.
-- 🌱 I’m currently learning REACT.
+- 🌱 I’m currently learning MERN.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me connect with me on LinkedIn. [Abhishek jamdade]
 
